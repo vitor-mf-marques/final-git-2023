@@ -1,0 +1,18 @@
+body {
+    font-family: "Be Vietnam Pro", sans-serif;
+    font-size: 16px;
+    line-height: 18px;
+    color: rgb(118, 92, 60);
+    background-color: rgb(223, 215, 205);
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    margin: 50px;
+    gap: 50px;
+}
+
+img{
+    height: 200px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+} 
